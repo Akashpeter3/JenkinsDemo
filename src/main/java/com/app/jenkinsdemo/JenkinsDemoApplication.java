@@ -13,7 +13,7 @@ public class JenkinsDemoApplication {
 
     @PostConstruct
     public void init() {
-        logger.info("JenkinsDemoApplication initializing...")
+        logger.info("JenkinsDemoApplication initializing...");
     }
 
 
